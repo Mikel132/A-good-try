@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(31,31,31);
+    text-align: center;
+    color: #fff;
+    border-radius: 10px;
+}
+main{
+    background-color: black;
+    text-align: center;
+    font-family: ;
+    
+}
+p{
+    color: greenyellow;
+    font-size: 17px;
+}
+button{
+    background-color: rgb(51,51,51);
+    color: hsl(0, 0%, 100%);
+    width: 50%;
+    padding: 0.5rem 1rem;
+    border-radius: 10px;
+    font-size:20px ;
+    spa
+    
+}
+img{
+    border-radius: 150px;
+}
+header{
+    background-color: #000; 
+    color: #fff;
+    padding: 2rem 4rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
